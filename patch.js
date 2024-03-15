@@ -1,3 +1,1 @@
-<script>
-    console.log("ready");
-</script>
+console.log("ready");
