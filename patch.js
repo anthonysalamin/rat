@@ -1,1 +1,1 @@
-console.log("ready");
+// console.log("GSAP library updated");
